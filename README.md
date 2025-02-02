@@ -3,6 +3,9 @@
 ## Overview
 The **IPL Win Predictor** is a machine learning-based web application that predicts the probability of a team's victory in an ongoing IPL match. The model is trained on historical IPL match data and uses various match parameters such as score, overs completed, wickets lost, and target runs to make real-time predictions.
 
+## Live Demo
+Check out the live demo of the project: [IPL-Win-Predictor](https://win-predictor-for-ipl.onrender.com)
+
 ## Features
 - **Team Selection**: Choose the batting and bowling teams from a predefined list.
 - **Match Conditions**: Select the host city and set the target score.
